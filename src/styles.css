@@ -1,0 +1,94 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: #1a1b21;
+  font-family: inter;
+}
+
+img {
+  /* height: 300px; */
+  height: 20rem;
+  width: 100%;
+}
+
+#head-text > h4 {
+  font-weight: 700;
+  font-size: 25px;
+  color: #ffffff;
+}
+
+#head-text > h5 {
+  font-weight: 400;
+  font-size: 12.8px;
+  color: #f3bf99;
+  margin-top: -25px;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  background-color: #ffffff;
+  height: 3rem;
+  width: 80%;
+  border-radius: 10px;
+  font-weight: 500;
+  font-size: 14px;
+  padding-top: 4%;
+}
+
+.container-text {
+  width: 80%;
+  margin: 10%;
+}
+
+.container-text > h1 {
+  color: #dcdcdc;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.container-text > p {
+  color: #f5f5f5;
+  font-size: 10px;
+  font-weight: 400;
+}
+
+.container-text-intrest {
+  width: 80%;
+  /* margin: 40px; */
+  margin: 10%;
+  margin-top: -15px;
+}
+
+.container-text-intrest > h1 {
+  color: #dcdcdc;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.container-text-intrest > p {
+  color: #f5f5f5;
+  font-size: 10px;
+  font-weight: 400;
+}
+
+.footer {
+  background-color: #161619;
+  height: 70px;
+}
+
+.mail-button {
+  /* padding-top: 10%; */
+}
+
+.footer-items {
+  color: #918e9b;
+  font-size: 300%;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  justify-content: space-around;
+  /* width: 80%; */
+}
